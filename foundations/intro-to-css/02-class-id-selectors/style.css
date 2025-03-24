@@ -5,3 +5,7 @@ p, div {
 .odd {
     background-color: #FFB6C1;
 }
+
+.odd.fontsize {
+    font-size: 24px;
+}
