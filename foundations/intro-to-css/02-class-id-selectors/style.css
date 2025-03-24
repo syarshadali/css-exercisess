@@ -9,3 +9,14 @@ p, div {
 .odd.fontsize {
     font-size: 24px;
 }
+
+.even#num2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+.even#num4 {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
