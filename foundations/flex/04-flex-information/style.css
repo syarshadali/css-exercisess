@@ -1,6 +1,5 @@
 body {
   font-family: 'Courier New', Courier, monospace;
-  max-width: 2200px;
 }
 
 img {
@@ -27,6 +26,10 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+.information-container {
+  width: 1200px;
 }
 
 .info-card-container {
