@@ -80,16 +80,3 @@ button.cancel {
 .header {
   margin-right: auto;
 }
-
-.icon {
-  margin-left: 6px;
-  margin-right: 6px;
-}
-
-.close-button {
-  margin-right: 6px;
-}
-
-.modal {
-  padding: 10px;
-}
