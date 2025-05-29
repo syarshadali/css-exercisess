@@ -39,6 +39,7 @@ body {
   justify-content: center;
   margin-left: 4px;
   margin-right: 14px;
+  flex-shrink: 0;
 }
 
 .close-button {
