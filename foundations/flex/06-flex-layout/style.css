@@ -45,3 +45,26 @@ ul {
 ul a {
   text-decoration: none;
 }
+
+.left-links {
+  display: flex;
+  gap: 15px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 28px;
+}
+
+.right-links {
+  display: flex;
+  gap: 15px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background-color: #eeeeee;
+  padding: 14px;
+}
