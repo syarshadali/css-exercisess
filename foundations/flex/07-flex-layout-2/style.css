@@ -57,8 +57,17 @@ ul a {
 }
 
 .cards {
+  margin-top: 40px;
+  margin-bottom: 40px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   flex: 1;
+  gap: 20px;
+}
+
+.sidebar-cards {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
 }
